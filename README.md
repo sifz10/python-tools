@@ -1,7 +1,3 @@
-Here’s a professional, developer-friendly `README.md` file for your **Full Website Sitemap Generator Bot**:
-
----
-
 ````markdown
 # 🕸️ Full Website Sitemap Generator
 
