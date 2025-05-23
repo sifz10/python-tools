@@ -89,8 +89,3 @@ Founder, [Ryven.co](https://ryven.co)
 MIT License – free to use, modify, and distribute.
 
 ```
-
----
-
-Let me know if you'd like a **GIF preview**, badge icons (PyPI, license, etc.), or a one-click **GitHub deploy button**!
-```
